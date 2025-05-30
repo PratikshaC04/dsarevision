@@ -11,14 +11,13 @@ public:
     void deleteNode(ListNode* node) {
  
 
-        if (node == nullptr || node->next == nullptr) return; // Safety check
+        if (node == nullptr || node->next == nullptr) return; 
 
-        ListNode* temp = node->next; // Store next node
-        node->val = temp->val;       // Copy next node's value into current node
-        node->next = temp->next;     // Skip next node
+        ListNode* temp = node->next;
+        node->val = temp->val;     
+        node->next = temp->next;    
 
-        delete temp; // Free memory
-    
+        delete temp; 
 
 
 
