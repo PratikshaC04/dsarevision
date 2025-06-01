@@ -1,0 +1,467 @@
+[33mcommit 444185a5c3f0e642b9783908711c5b597eece832[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri May 30 17:54:57 2025 +0530
+
+    Finding middle element in linked lists
+
+[33mcommit c295edbb9b2be81508b7c4e0cb8b98b3022dc3a1[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu May 29 20:08:51 2025 +0530
+
+    Finding union of 2 sorted arrays
+
+[33mcommit e42444e5df32bd91c17e5999af6d7a233c526e8d[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu May 29 19:38:13 2025 +0530
+
+    Update secondlargest.cpp
+
+[33mcommit f6fa2fb1cfe39677f4eb70d53a04b726106c67ac[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu May 29 19:30:20 2025 +0530
+
+    Second largest element of array
+
+[33mcommit 1fc3343dd6be1f1a40ad26f3e7c5bd028c3b0ceb[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat May 17 10:10:00 2025 +0530
+
+    stacks question
+
+[33mcommit de76ba6d6a5beec784fe987a41becb279a1818ae[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed May 14 18:39:55 2025 +0530
+
+    Stacks lp question
+
+[33mcommit 2a9ad17d26a90eaff8976cfa0f67899830f4243f[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue May 6 18:43:55 2025 +0530
+
+    Stock spanner using stocks
+
+[33mcommit c5e0349f1790bf47a8d08619b6434abeef8b306b[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sun May 4 18:39:43 2025 +0530
+
+    Finding maximum area in 2d matrix
+
+[33mcommit 59d22a456be6d4a0c83de018fa3ecfab3493e93d[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sun May 4 18:28:37 2025 +0530
+
+    Finding largest area of rectangle hsitogram
+
+[33mcommit 0a3ea3accbeef93cad5acf33c18e1d0dd04aed41[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sun May 4 10:55:34 2025 +0530
+
+    Remove k digits
+
+[33mcommit 0a56bda39ad35ff469cabd11c590b66af5456a76[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sun May 4 10:02:50 2025 +0530
+
+    Collision of asteriods
+
+[33mcommit e589c711f1d74d1c6b6085d80a51f82bcd60ac41[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat May 3 15:11:56 2025 +0530
+
+    finding next greater elements in circular array
+
+[33mcommit fd8cc92a4671000274f4bea5a3819a4bb45156c3[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri May 2 19:17:58 2025 +0530
+
+    finding next greater member
+
+[33mcommit 9c4d34fa9ccd77de6f2d662273613d6f6a45aee4[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri May 2 18:27:17 2025 +0530
+
+    Geeting minimum from the stack
+
+[33mcommit aa199ce36efbf3485df3bd8c3e1cb894344785ce[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri May 2 15:54:53 2025 +0530
+
+    Rotten oranges counting
+
+[33mcommit d38bbf34d3ba9743b9c6b6f0f2388744ea2544d8[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu May 1 19:01:49 2025 +0530
+
+    Number of provinces using dfs
+
+[33mcommit 1927e7d1183b011916f340c3b9c8b689c5ca7082[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu May 1 11:15:59 2025 +0530
+
+    DFS in graphs
+
+[33mcommit 9a13e53022915a3a7d8070eb89c931886080387f[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu May 1 11:14:06 2025 +0530
+
+    BFS in graphs
+
+[33mcommit 67e7bc82ed1879a636a2b84a729e31ea7cc764b5[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 30 18:41:11 2025 +0530
+
+    Isomorphic strings
+
+[33mcommit c03fdfbdc2cd3d2f12a29345c4d1366fa4068143[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 30 18:13:57 2025 +0530
+
+    Longest common prefix
+
+[33mcommit 7d3ec26ecf9c7f150735dc089267880262f40b15[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 30 10:06:21 2025 +0530
+
+    code to reverse words
+
+[33mcommit f584a3fdd903b0ee57f7ae4885a31b950e7a13bb[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 29 18:49:27 2025 +0530
+
+    Finding peak element in 2D matrix
+
+[33mcommit e4c9845311d78837a05356cc044ea4ddf5abe1b9[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 29 18:33:48 2025 +0530
+
+    Finding an element in matrix where each row is sorted but not necessary that 1st element of 2nd row i s greaterthan last element of 1s row
+
+[33mcommit 4a9874dfa7aabe494242d79856ec3ccae11d88a8[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 29 18:26:18 2025 +0530
+
+    Searching an element in 2D matrix using BS
+
+[33mcommit 00c92e57592913f8b139b611b72ed3e991a3e8c6[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 29 18:14:15 2025 +0530
+
+    Finding maximum ones in 2d array
+
+[33mcommit 7f0de9032f3defe0e78a6e825d147b8eb2863795[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sun Apr 27 14:02:11 2025 +0530
+
+    Pianters problem same as book allocation
+
+[33mcommit 8cb25d9766ec4433b010ca5d6cd8e178e83128c8[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sun Apr 27 13:56:54 2025 +0530
+
+    book allocation problem of binary search
+
+[33mcommit 66eb7e486b5aff3b7f116ae5886ec647ec66b64a[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat Apr 26 15:09:04 2025 +0530
+
+    finding maximum of minimum
+
+[33mcommit 422b9992effaccc8b9bbb152cb3201a0e44b58d1[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat Apr 26 15:07:06 2025 +0530
+
+    finding maximum of mnimum
+
+[33mcommit b0980f39fcb93c3b7df50e787b65c2e1d53fe4b2[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri Apr 25 18:54:53 2025 +0530
+
+    finding discount using stacks
+
+[33mcommit a12d99b6689c85dc7582aaae4c9754ff0bb9a55d[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri Apr 25 18:51:37 2025 +0530
+
+    Remove outer parenthesis
+
+[33mcommit 593bc617dbd20c3f33017dd4d8d3e23af6bfaabb[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri Apr 25 18:19:39 2025 +0530
+
+    Added code to check for valid parenthesis using stack
+
+[33mcommit f0ea0fe287a9e287ee261add03ae7064d58b35f6[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu Apr 24 19:39:42 2025 +0530
+
+    finding kth missing positive element
+
+[33mcommit 70bcf01f97eadbbf432ab8535ef97a4e5822ccde[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu Apr 24 19:31:21 2025 +0530
+
+    Least capacity to ship packages
+
+[33mcommit 302122c39b5ba03d504bc611813562c38084a508[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu Apr 24 18:39:56 2025 +0530
+
+    Smallest divisor in array
+
+[33mcommit aa2ea69f1e7db9a479047326a3cd832cdae94c64[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu Apr 24 18:20:40 2025 +0530
+
+    Minimum days required to make m bouques
+
+[33mcommit 1b3ba0a193b57faaac757359df7ca6fda595885d[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 21 19:26:32 2025 +0530
+
+    Koko eating bananas
+
+[33mcommit d476c166082f17df2036abf1e244d956e4e44d71[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 21 18:43:31 2025 +0530
+
+    finding square root by binary search
+
+[33mcommit d71a46b41b0600a162d24138ead675610e87bcc2[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 21 18:33:37 2025 +0530
+
+    finding peak element in array
+
+[33mcommit d7170257644d2c9b10bb781e39b6a26debfe9886[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 21 18:27:09 2025 +0530
+
+    Finding element whih is single while remainig are duplicates
+
+[33mcommit c8bc93edf14fd5687a164fe7332ab1465b3b981e[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 21 18:24:28 2025 +0530
+
+    Finding minimum in rotated aorted array using bs
+
+[33mcommit 8d0fe71c853a3eafcb00c83af1d24752e5aa13bd[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sun Apr 20 18:23:51 2025 +0530
+
+    Building bst from preorder
+
+[33mcommit 6328e666eb6aaf4b9c7cb7cab11a9d8b55010203[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat Apr 19 19:16:22 2025 +0530
+
+    Search element in rotated sorted array if duplicates are present
+
+[33mcommit c78e11d0007c086d349a93dd43c96f9b0be500bd[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat Apr 19 19:06:18 2025 +0530
+
+    search in rotated sorted array
+
+[33mcommit 8ed16e2640e08e55bc3125ca9853adaf2b174f3a[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat Apr 19 14:57:37 2025 +0530
+
+    Finding the first and last occurence of a element in sorted array
+
+[33mcommit e36271ae7893d4f3e069c019f3aaa294fdb3b48f[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat Apr 19 14:48:18 2025 +0530
+
+    Search insert position using binary search
+
+[33mcommit 587b7f9eddac9d2bac1066a525b02b799f443690[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat Apr 19 14:33:55 2025 +0530
+
+    Longest consecutive sequence in array
+
+[33mcommit 84018c207665152bcefc6d67a29ab0cf5270e40d[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Sat Apr 19 13:05:05 2025 +0530
+
+    Alternate positive and negative inarray
+
+[33mcommit 73c77e881d8b2191446814c035075bca09bb23ef[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri Apr 18 14:36:58 2025 +0530
+
+    buy and sell stock
+
+[33mcommit a05539a631a068dd6edff44b9494b88f7fba6e89[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri Apr 18 11:58:34 2025 +0530
+
+    Least common ancestor in bst
+
+[33mcommit cce01bccc573ae94a08667ffe89d73b708f09007[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri Apr 18 10:46:10 2025 +0530
+
+    to check if tree is bst or bt
+
+[33mcommit f08d87a589f77cc03c09f3ffdc1c12201a30e965[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Fri Apr 18 09:56:11 2025 +0530
+
+    Kth smallest in BST
+
+[33mcommit be88ebf54b892c714151b5bd758a240821f2a9ba[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu Apr 17 18:56:25 2025 +0530
+
+    inserting a node in bst
+
+[33mcommit 28205412160af9a129b4cff453c69e2180f80116[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Thu Apr 17 18:12:21 2025 +0530
+
+    Seacrh ib binarysearch tree
+
+[33mcommit 14739f9100a4cf0e81c12299c46f99536f9b4b89[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 16 22:26:26 2025 +0530
+
+    Added codde for binary search
+
+[33mcommit c4b5d59cb64e46ba975ad2f579f8094e7cfee462[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 16 19:26:59 2025 +0530
+
+    element that appears more than n/2 times
+
+[33mcommit 3f37678b6001e4ec0762480e4234396b6a7151e6[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 16 19:25:10 2025 +0530
+
+    Element appreaing more than n/2 times
+
+[33mcommit d7c1e5f7ed84494e1a92e2dd9ec1ddfc88dbc157[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 16 18:46:34 2025 +0530
+
+    sorting 1 ,0 ,2
+
+[33mcommit 1c0f969ad8b0d2a2d93ce61940f8ba588416eb51[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 16 18:26:22 2025 +0530
+
+     finding giving sum using 2 numbers from array
+
+[33mcommit 01857b23f1c9fcaec7a472c4d7582af203c41737[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 16 18:11:30 2025 +0530
+
+    To find longest subarray with given sum
+
+[33mcommit 88505d6ca9b3bcc7633683a3d3d5b21be031ebfe[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Wed Apr 16 07:39:56 2025 +0530
+
+    code to check the num appearing once
+
+[33mcommit 72c03ad0da55acf90892775adf14262944caa88f[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 15 21:51:45 2025 +0530
+
+    Added code to cnt max consecutive ones
+
+[33mcommit 79bf6ab9c1bca22f5c2d8089bc9c50f39809e813[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 15 21:34:22 2025 +0530
+
+    added code to check for missing number
+
+[33mcommit 1a96d642a2eaddb01a6bbdef4894914232978da8[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 15 19:03:47 2025 +0530
+
+    Added code to move zeros to end in array
+
+[33mcommit 0cfd2d8cc06abc798bcd636940f7d4b33a3d61ce[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 15 18:40:52 2025 +0530
+
+    Added code for left rotate array by k places
+
+[33mcommit e9e5046e45e982ea5b4926536a567632dcc4f0ae[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 15 18:33:06 2025 +0530
+
+    Added code to check for duplicates from array
+
+[33mcommit b09ec991e3cbf78ff16df0ddc4a0985594627609[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 15 18:27:38 2025 +0530
+
+    Added code for sorted
+
+[33mcommit 104bfa32849a4d5f607ef30d6db142d0b93b7bf4[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Tue Apr 15 18:23:43 2025 +0530
+
+    added solution to check for if array is sorted
+
+[33mcommit 0ae71913cf2e4f8395930e89be3d88fef7fceb7a[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 22:32:15 2025 +0530
+
+    Added code for fibbonacci series
+
+[33mcommit f7fd8891f76ce7184477ff9259ba22677020befb[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 22:29:14 2025 +0530
+
+    Added fibbonacci code
+
+[33mcommit c395368eef55d2bf56f0e28c01b1c75e4f540c8e[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 21:37:08 2025 +0530
+
+    added working palindrome checker code for strings
+
+[33mcommit 64f599bc2a7fc542f3605d906585b860a5bdeeee[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 21:31:25 2025 +0530
+
+    added actual palindrome checking code for string
+
+[33mcommit b2c39c804aa012b478c55b6c7a4d7c5fe3c2a971[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 20:56:36 2025 +0530
+
+    Added working palindrome checking code
+
+[33mcommit 5df6075adb6dccc7431d2b0440e4f45fc7ca9ded[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 20:02:37 2025 +0530
+
+    Removed unused files: palindrome.cpp and for
+
+[33mcommit aef19db6c19e4ff7eb7d0b699a1fb6f351af3769[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 19:58:30 2025 +0530
+
+    Added solution for checking palindrome
+
+[33mcommit 1076e6d67cfee877c54d115a39cda9d59df69216[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 19:53:18 2025 +0530
+
+    Added check for plaindrome leetcode soln
+
+[33mcommit 1b63496bc37bcd026436aa227c7f600d9c5019f1[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 19:31:15 2025 +0530
+
+    added actual reverse integer code
+
+[33mcommit 8be131a05acf110e425837cc87dda8015c33e374[m
+Author: PratikshaC04 <chougulepratiksha23@gmail.com>
+Date:   Mon Apr 14 19:16:55 2025 +0530
+
+    Added reverse integer leetcode solution
