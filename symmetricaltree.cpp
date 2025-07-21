@@ -1,0 +1,44 @@
+
+// Node structure for the binary tree
+struct Node {
+    int data;
+    Node* left;
+    Node* right;
+    // Constructor to initialize
+    // the node with a value
+    Node(int val) : data(val), left(nullptr), right(nullptr) {}
+};
+
+class Solution {
+private:
+    // Function to check if
+    // two subtrees are symmetric
+    bool isSymmetricUtil(Node* root1, Node* root2) {
+        // Check if either subtree is NULL
+        if (root1 == NULL || root2 == NULL) {
+            // If one subtree is NULL, the other
+            // must also be NULL for symmetry
+            return root1 == root2;
+        }
+        // Check if the data in the current nodes is equal
+        // and recursively check for symmetry in subtrees
+        return (root1->data == root2->data)
+            && isSymmetricUtil(root1->left, root2->right)
+            && isSymmetricUtil(root1->right, root2->left);
+    }
+
+public:
+    // Public function to check if the
+    // entire binary tree is symmetric
+    bool isSymmetric(Node* root) {
+        // Check if the tree is empty
+        if (!root) {
+            // An empty tree is
+            // considered symmetric
+            return true;
+        }
+        // Call the utility function
+        // to check symmetry of subtrees
+        return isSymmetricUtil(root->left, root->right);
+    }
+};
