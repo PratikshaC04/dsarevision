@@ -16,3 +16,10 @@ public:
         return notHold;  // Final answer is when not holding a stock
     }
 };
+int main()
+{
+    int n;
+    cout<<"Enter the number of elements to be entered"<<endl;
+    cin>>n;
+    cout<<"Enter the number of rows"<<endl;
+}

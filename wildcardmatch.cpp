@@ -32,3 +32,7 @@ public:
         return wildcardMatchingUtil(p, s, n - 1, m - 1, dp);
     }
 };
+int main()
+{
+    cout<<"enter the number of elements in the array"
+}

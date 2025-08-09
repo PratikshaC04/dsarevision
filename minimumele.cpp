@@ -55,5 +55,5 @@ int main() {
                                  
     cout << "The minimum number of coins required to form the target sum is " << minimumElements(arr, T);
 
-    return 0; // Return 0 to indicate successful program execution
+    return 0;
 }

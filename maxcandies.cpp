@@ -26,6 +26,6 @@ public:
             }
             else r = mid - 1;
         }
-        return static_cast<int> (anss);
+        return static_cast<int> (ans);
     }
 };

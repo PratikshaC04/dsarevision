@@ -6,26 +6,43 @@ public:
         long long prev = 0;
 
         for (int num : nums) {
-            if (num == prev) continue; // skip duplicates
-
+            if (num == prev) continue; 
             long long gap = num - prev - 1;
 
             if (gap >= k) {
-                // Add k numbers starting from prev + 1
                 sum += (long long)(prev + 1 + prev + k) * k / 2;
                 return sum;
             } else {
-                // Add all gap numbers
                 sum += (long long)(prev + 1 + num - 1) * gap / 2;
                 k -= gap;
             }
 
             prev = num;
         }
-
-        // If k numbers are still left after nums
         sum += (long long)(prev + 1 + prev + k) * k / 2;
 
         return sum;
     }
 };
+long long minimalsum(vector<int>& nums,int k)
+{
+    for(int num :num)
+    {
+
+ if (gap >= k) 
+ {
+                sum += (long long)(prev + 1 + prev + k) * k / 2;
+                return sum;
+     } else 
+     {
+                sum += (long long)(prev + 1 + num - 1) * gap / 2;
+                k -= gap;
+            }
+
+            prev = num;
+        }
+        sum += (long long)(prev + 1 + prev + k) * k / 2;
+
+        return sum;
+    }
+

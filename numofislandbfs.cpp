@@ -31,11 +31,10 @@ class Solution {
       }
   }
   public:
-    // Function to find the number of islands.
+//To find the number of islands in total
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size(); 
         int m = grid[0].size(); 
-        // create visited array and initialise to 0
         vector<vector<int>> vis(n, vector<int>(m, 0)); 
         int cnt = 0; 
         for(int row = 0; row < n ; row++) {

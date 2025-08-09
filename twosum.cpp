@@ -13,7 +13,7 @@ public:
             }
             mp[nums[i]] = i;
         }
-        return {};  // if no solution found
+        return {};  
     }
 };
 
